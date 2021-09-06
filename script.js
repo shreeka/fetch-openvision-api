@@ -26,6 +26,7 @@ async function handleFormSubmit(event) {
             }
         }
 
+
     ).catch(
         error => console.log(error)
     );
