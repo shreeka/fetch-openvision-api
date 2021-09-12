@@ -1,4 +1,4 @@
-const input = document.getElementById('file_upload');
+const input = document.getElementById('chooseFile');
 const form = document.getElementById('e_form');
 const api_url = 'https://cors.bridged.cc/https://api.openvisionapi.com/api/v1/detection';
 const result= document.getElementById('result');
